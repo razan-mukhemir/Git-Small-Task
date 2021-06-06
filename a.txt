@@ -2,4 +2,8 @@
 
 2- Second Commit
 
+<<<<<<< HEAD
 3- Third Commit from updateRight branch
+=======
+4- Fourth Commit from updateLeft branch
+>>>>>>> updateLeft
